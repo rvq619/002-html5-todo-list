@@ -11,3 +11,7 @@ Files uploaded description:
 - index000.html
 - index001.html
 
+Lessons Learned:
+- Contenteditable
+- Drag and drop
+- localStorage
